@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Fawwaz Qudamah</h1>
-<h3 align="center">I am a web and software developer, as well as an IT support professional.</h3>
+<h3 align="center">I am a software developer with a passion for creating creative solutions.</h3>
 
 - 🌱 I’m currently learning **Vue, Laravel, Python, MongoDB**
 
